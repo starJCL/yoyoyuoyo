@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="013a632b-bf52-4aa6-a844-4b655cc23d97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yyrobot_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yyrobot_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yyrobot_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yyrobot_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\MavenData" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25zc99FYSyFWzisTmPrmzkv0FCM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/robot/controller/reception" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\00A青鸟\2期笔记\YouYouRobot\src\main\java\com\robot\uitl" />
+      <recent name="F:\项目\博客\开发\blog-vue-springboot-master\YouYouRobot\src\main\java\com\robot\dao\background\login" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.robot.uitl" />
+      <recent name="com.robot.dao.background.order" />
+      <recent name="com.robot.dao.background.course" />
+      <recent name="com.robot.dao.background.activity.video" />
+      <recent name="com.robot.dao.background.activity.poster" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\项目\网上约课-悠悠机器人\开发\YouYouRobot\src\main\java\com\robot\controller\reception" />
+      <recent name="F:\项目\博客\开发\blog-vue-springboot-master\YouYouRobot\src\main\java\com\robot\dao\reception" />
+      <recent name="F:\项目\博客\开发\blog-vue-springboot-master\YouYouRobot\src\main\java\com\robot\dao\background" />
+      <recent name="F:\项目\博客\开发\blog-vue-springboot-master\YouYouRobot\src\main\java\com\robot\uitl" />
+      <recent name="F:\项目\博客\开发\blog-vue-springboot-master\YouYouRobot\src\main\java\com\robot\pojo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="YouYouRobot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.robot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013a632b-bf52-4aa6-a844-4b655cc23d97" name="Default Changelist" comment="" />
+      <created>1646533201284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646533201284</updated>
+      <workItem from="1646533205072" duration="3325000" />
+      <workItem from="1646538011254" duration="12802000" />
+      <workItem from="1646558794745" duration="58000" />
+      <workItem from="1646560563076" duration="1099000" />
+      <workItem from="1646561688205" duration="2269000" />
+      <workItem from="1646565409418" duration="4814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="94" key="#Project_Structure" timestamp="1646569227105">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1646533737513" />
+    <state x="451" y="94" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1646569227105" />
+    <state x="189" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646539244799">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="189" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1646539244799" />
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1646552838725">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1646552838725" />
+    <state x="308" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1646555364885">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="308" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1646555364885" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646538577581">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1646538577581" />
+    <state width="410" height="466" key="DebuggerActiveHint" timestamp="1646552242949">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="410" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1646552242949" />
+    <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1646565542482">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1646549218684" />
+    <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1646565542482" />
+    <state width="1877" height="350" key="GridCell.Tab.0.bottom" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.0.center" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.0.left" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1646561669999" />
+    <state width="1877" height="350" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.0.right" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right" timestamp="1646565974250">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1646561670000" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1646565974250" />
+    <state width="1493" height="104" key="GridCell.Tab.2.bottom" timestamp="1646555826771">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="104" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1646555826771" />
+    <state width="1493" height="104" key="GridCell.Tab.2.center" timestamp="1646555826770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="104" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1646555826770" />
+    <state width="1493" height="104" key="GridCell.Tab.2.left" timestamp="1646555826770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="104" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1646555826770" />
+    <state width="1493" height="104" key="GridCell.Tab.2.right" timestamp="1646555826770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="104" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1646555826770" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1646538018634">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.834@0.0.1536.834" timestamp="1646538018634" />
+    <state x="338" y="73" key="SettingsEditor" timestamp="1646565546841">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1646538245786" />
+    <state x="338" y="73" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1646565546841" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1646561689077">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1646561689077" />
+    <state x="533" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1646549424475">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="533" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1646549424475" />
+    <state x="178" y="112" key="new project wizard" timestamp="1646539337811">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1646539337811" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1646549578529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1646549578529" />
+    <state x="682" y="427" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1646569036586">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="682" y="427" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1646569036586" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/robot/controller/background/login/LoginController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
